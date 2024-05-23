@@ -1,0 +1,569 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #353645;
+}
+.container{
+    display: flex;
+}
+.A{
+    font-size: smaller;
+    position: absolute;
+    right: 75%;
+    color: rgb(255, 255, 254);
+}
+.b{
+    position: absolute;
+    right: 55%;
+    color: rgb(255, 255, 255);
+    font-size: smaller
+}
+.C{
+    position: absolute;
+    right: 66%;
+    color: rgb(255, 255, 255);
+    font-size: smaller
+}
+.d{
+    position: absolute;
+    right: 46%;
+    color: rgb(255, 255, 255);
+    font-size: smaller
+}
+.e{
+    position: absolute;
+    left: 6%;
+    color: rgb(255, 255, 255);
+    font-size: smaller
+}
+.fa-linkedin-in{
+
+    position: absolute;
+    right: 13.5%;
+    color: rgb(255, 255, 255);
+
+}
+.fa-square-github{
+
+    position: absolute;
+    right: 17%;
+    color: rgb(255, 255, 255);
+}
+.fa-bars{
+
+    position: absolute;
+    right: 10%;
+    color: rgb(255, 255, 255);
+}
+.img{
+    height: 100%;
+    width: 40%;
+    position: absolute;
+    top: -10;
+    left: 29%;
+}
+.box{
+    opacity: 424%;
+    height: 69%;
+    width: 47%;
+    border: 2px solid #2B2C38;
+    border-radius: 50%;
+    position: absolute;
+    top: 5.95%;
+    left: 25%;
+    background-color: #2B2C38;
+}
+.n{
+    opacity: 45%;
+    font-size: 184%;
+    position: absolute;
+    top: 23.95%;
+    left: 6%;
+    color: rgb(255, 255, 255);
+}
+.h{
+    font-size: 256%;
+    position: absolute;
+    top: 29.95%;
+    left: 6%;
+    color: rgb(255, 255, 255);
+}
+.text{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 40.95%;
+    left: 6%;
+    font-size: small;
+    line-height: 132%;
+    opacity: 70%;
+}
+.line{
+    border-bottom: 3px solid #F3B323;
+    width: 12%;
+    position: absolute;
+    top: 38%;
+    left: 6%;
+}
+.service{
+    color: white;
+    position: absolute;
+    top: 17%;
+    right: 29%;
+    font-size: small;
+    line-height: 2%;
+    opacity: 55%
+}
+.ser{
+    color: rgb(255, 255, 255);
+    margin: -2%;
+    padding: -6%;
+    position: absolute;
+    right: 13%;
+    top: 24%;
+    font-size: 112%;
+}
+.sor{
+    line-height: 8%;
+    font-size: small;
+}
+.Sho{
+    color: #F3B323;
+    font-size: 80%;
+    position: absolute;
+    top: 34%;
+    LEFT: 66%;
+}
+.fa-arrow-right{
+    color: #F3B323;
+    position: absolute;
+    top: 34.5%;
+    right: 25%;
+    font-size: small;
+}
+.major{
+
+    height: 115%;
+    width: 100%;
+    position: absolute;
+    top: 90.95%;
+    left: 0%;
+    background-color: #272935;
+}
+.foot{
+    height: 15%;
+    width: 87%;
+    position: absolute;
+    top: 83%;
+    left: 6%;
+    right: 10%;
+    background-color: #403F51;
+}
+.box-1{
+    height: 7%;
+    width: 15%;
+    position: absolute;
+    top: 87.95%;
+    left: 9%;
+    background-color: #353545; 
+    opacity: 80%;
+}
+.box-2{
+    height: 7%;
+    width: 15%;
+    position: absolute;
+    top: 87.95%;
+    left: 30%;
+    background-color: #353545; 
+    opacity: 80%;
+}
+.box-3{
+    height: 7%;
+    width: 15%;
+    position: absolute;
+    top: 87.95%;
+    left: 52%;
+    background-color: #353545; 
+    opacity: 80%;
+}
+.box-4{
+    height: 7%;
+    width: 15%;;
+    position: absolute;
+    top: 87.95%;
+    left: 75%;
+    background-color: #353545; 
+    opacity: 80%;;
+}
+.fa-meta{
+    color: #0668E1;
+    position: absolute;
+    top: 89.95%;
+    left: 12.5%;
+}
+.lo{
+    color: white;
+    position: absolute;
+    top: 89.95%;
+    left: 15%;
+}
+.google{
+    position: absolute;
+    top: 86.95%;
+    left: 32%;
+    width: 11%;
+}
+.lin{
+    color: white;
+    position: absolute;
+    top: 89.95%;
+    left: 56%;
+}
+.fa-linkedin{
+    color:#4285F4;
+    position: absolute;
+    top: 89.95%;
+    left: 61%;
+}
+.fa-slack{
+    color: white;
+    position: absolute;
+    top: 89.95%;
+    left: 79%;
+    width: 2%;
+}
+.sl{
+    color: white;
+    position: absolute;
+    top: 89.95%;
+    left: 81.5%;   
+}
+.nee{
+    font-size: 175%;
+    color: white;
+    position: absolute;
+    top: 116%;
+    left: 6%;
+}
+.text-2{
+    line-height: 132%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 130.95%;
+    left: 6%;
+    font-size: 80%;
+    opacity: 55%
+}
+.two{
+    color: #F3B323;
+    position: absolute;
+    top: 144.95%;
+    left: 6%;
+    font-size: 200%
+}
+.one{
+    color: #F3B323;
+    position: absolute;
+    top: 144.95%;
+    left: 18%;
+    font-size: 200%
+}
+.pr{
+    line-height: 132%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 149.95%;
+    left: 6%;
+    font-size: 66%;
+    opacity: 70%
+}
+.com{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 149.95%;
+    left: 18%;
+    font-size:  66%;
+    opacity: 70%
+}
+.thi{
+    color: #F3B323;
+    position: absolute;
+    top: 153.95%;
+    left: 6%;
+    font-size: 200%
+}
+.ten{
+    color: #F3B323;
+    position: absolute;
+    top: 153.95%;
+    left: 18%;
+    font-size: 200%;
+}
+.con{
+    line-height: 132%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 160.95%;
+    left: 6%;
+    font-size: 66%;
+    opacity: 70%
+}
+.yea{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 160.95%;
+    left: 18%;
+    font-size: 66%;
+    opacity: 70%
+}
+.ui{
+    background-color:  #403F50;
+    height: 35%;
+    width: 25%;
+    position: absolute;
+    top: 168.95%;
+    left: 6%;
+}
+.web{
+    background-color:  #403F50;
+    height: 35%;
+    width: 25%;
+    position: absolute;
+    top: 168.95%;
+    left: 36%;
+}
+.mob{
+    background-color: #403F50;
+    height: 35%;
+    width: 25%;
+    position: absolute;
+    top: 168.95%;
+    left: 67%;
+}
+.UI{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 118%;
+    left: 65%;
+}
+.project1{
+    color: white;
+    font-size: smaller;
+    position: absolute;
+    top: 123%;
+    left: 65%;
+    font-size: 70%;
+    opacity: 55%;
+}
+.line1{
+    border-bottom: 1px solid grey;
+    width: 40%;
+    position: absolute;
+    top: 129%;
+    left: 52%;
+}
+.front{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 136%;
+    left: 65%; 
+}
+.project2{
+    color: white;
+    font-size: smaller;
+    position: absolute;
+    top: 141%;
+    left: 65%;
+    font-size: 70%;
+    opacity: 55%;
+}
+.line2{
+    border-bottom: 1px solid grey;
+    width: 40%;
+    position: absolute;
+    top: 148%;
+    left: 52%;
+}
+.mobile{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 154%;
+    left: 65%;
+}
+.project3{
+    color: white;
+    font-size: smaller;
+    position: absolute;
+    top: 159%;
+    left: 65%;
+    font-size: 70%;
+    opacity: 55%;
+
+}
+.line3{
+    border-bottom: 1px solid grey;
+    width: 40%;
+    position: absolute;
+    top: 165%;
+    left: 52%;
+}
+.ux{
+
+    position: absolute;
+    top: 112.95%;
+    left: 52%;
+    width: 12%;
+}
+.end{
+    position: absolute;
+    top: 131.95%;
+    left: 52%;
+    width: 12%;
+    height: 100px;
+}
+.app{
+    position: absolute;
+    top: 150.95%;
+    left: 52%;
+    width: 12%;
+}
+.box-ui{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 180.95%;
+    left: 8%;
+}
+.box-web{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 180.95%;
+    left: 38%; 
+}
+.box-app{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 180.95%;
+    left: 70%;
+}
+.text-ui{
+    line-height: 132%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 185.95%;
+    left: 8%;
+    font-size: 80%;
+    opacity: 55%;
+}
+.text-web{
+    line-height: 132%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 184.95%;
+    left: 38%;
+    font-size: 80%;
+    opacity: 55%;
+}
+.text-app{
+    line-height: 132%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 184.95%;
+    left: 70%;
+    font-size: 80%;
+    opacity: 55%;
+}
+.fa-instagram{
+    color: #F3B323;
+    position: absolute;
+    right: 28%;
+    top: 40%;
+    font-size: 100%;
+}
+.fa-facebook-f{
+    color: #F3B323;
+    position: absolute;
+    right: 33%;
+    top: 40%;
+    font-size: 100%;
+}
+.fa-twitter{
+    color: #F3B323;
+    position: absolute;
+    right: 24%;
+    top: 40%;
+    font-size: 100%;
+}
+.fa-pinterest-p{
+
+    color: #F3B323;
+    position: absolute;
+    right: 20%;
+    top: 40%;
+    font-size: 100%;
+}
+.fb{
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid #4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 39%;
+    left: 65.4%;
+    background-color: #4E4A5A;
+}
+.insta{
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid #4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 39%;
+    left: 70.1%;
+    background-color: #4E4A5A;
+}
+.twiter{
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid #4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 38.8%;
+    left: 74%;
+    background-color: #4E4A5A;
+}
+.pin{
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid#4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 39%;
+    left: 78.2%;
+    background-color:#4E4A5A;
+}
+.last1{
+    position: absolute;
+    top: -113%;
+    left: 0%;
+    width: 50%
+}
+.png{
+    position: absolute;
+    top: -111%;
+    left: -285%;
+    width: 40%;
+}
+.ng{
+    position: absolute;
+    top: -113%;
+    left: -145%;
+    width: 35%;
+}
